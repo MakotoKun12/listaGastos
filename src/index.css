@@ -1,0 +1,28 @@
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+
+:root {
+  font-size: 16px;
+}
+
+body {
+  background: #F9F9F9;
+  min-height: 100vh;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  font-family: 'Work Sans', sans-serif;
+}
+
+#root {
+  width: 100%;
+}
+
+@media screen and (max-width: 60rem){ /* 950px */
+  :root {
+      font-size: 14px;
+  }
+}
