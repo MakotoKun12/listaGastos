@@ -9,7 +9,7 @@
 
 ``` https://app-lista-gastos-57cf4.web.app/ ```
 
-<h2 align="left"> Ejecuta el proyecyo </h2>
+<h2 align="left"> Ejecuta el proyecto </h2>
 
 1. Instala las dependencias de node.
 
